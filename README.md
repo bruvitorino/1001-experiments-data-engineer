@@ -8,8 +8,8 @@ Unificar e limpar quatro conjuntos de dados distintos para fornecer uma visão i
 
 ## 📁 Arquivos
 
-- `merge_data.py` ou `merge_data.ipynb`: função `merge_all_data()` que realiza todo o processamento.
-- `user_health_data.csv`, `supplement_usage.csv`, `experiments.csv`, `user_profiles.csv`: dados de entrada (exemplos).
+- `suplementos_e_experimentos.ipynb`: função `merge_all_data()` que realiza todo o processamento.
+- `user_health_data.csv`, `supplement_usage.csv`, `experiments.csv`, `user_profiles.csv`
 - `README.md`: documentação.
 
 ## 🚀 Como executar
